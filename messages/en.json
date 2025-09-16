@@ -17,6 +17,26 @@
     "submit": "Login",
     "error": "{error, select, CredentialsSignin {Invalid username or password} other {Unknown error}}"
   },
+  "SignUp": {
+    "title": "Sign Up",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Sign Up",
+    "signingUp": "Signing up...",
+    "fillAllFields": "Please fill in all fields",
+    "passwordMismatch": "Passwords do not match",
+    "signupSuccess": "Account created successfully! You can now sign in.",
+    "alreadyHaveAccount": "Already have an account?",
+    "signInHere": "Sign in here"
+  },
+  "Navbar": {
+    "logo": "MyApp",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "welcome": "Welcome, {username}!"
+  },
   "LocaleSwitcher": {
     "switchLocale": "Switch to {locale, select, de {German} en {English} other {Unknown}}"
   },

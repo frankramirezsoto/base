@@ -5,7 +5,8 @@ import {routing} from './i18n/routing';
 
 const publicPages = [
   '/',
-  '/login'
+  '/login',
+  '/sign-up',
   // Add public pages here, if not added it will be protected by authentication
 ];
 

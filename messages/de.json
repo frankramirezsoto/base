@@ -17,6 +17,26 @@
     "submit": "Anmelden",
     "error": "{error, select, CredentialsSignin {Ungültiger Benutzername oder Passwort} other {Unbekannter Fehler}}"
   },
+  "SignUp": {
+    "title": "Registrieren",
+    "username": "Benutzername",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "submit": "Registrieren",
+    "signingUp": "Registrierung läuft...",
+    "fillAllFields": "Bitte füllen Sie alle Felder aus",
+    "passwordMismatch": "Passwörter stimmen nicht überein",
+    "signupSuccess": "Konto erfolgreich erstellt! Sie können sich jetzt anmelden.",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+    "signInHere": "Hier anmelden"
+  },
+  "Navbar": {
+    "logo": "MeineApp",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "welcome": "Willkommen, {username}!"
+  },
   "LocaleSwitcher": {
     "switchLocale": "Zu {locale, select, de {Deutsch} en {Englisch} other {Unbekannt}} wechseln"
   },
